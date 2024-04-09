@@ -99,7 +99,6 @@ label span {
   bottom: 0;
 }
 
-@media (max-width: 1000px) {
   .burger {
     display: block;
   }
@@ -127,4 +126,3 @@ label span {
   li a {
     font-size: 24px;
   }
-}
